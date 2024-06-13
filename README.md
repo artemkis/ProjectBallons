@@ -1,7 +1,8 @@
 # ProjectBallons
-
+Проект собран в папку docs. Чтобы посмотреть готовый прект перейдите по [ссылке] (https://artemkis.github.io/ProjectBallons/)
 
 ![Logotype](./docs/img/header-background.jpg)
+Проект собран в папку docs. 
 
 
 ## Инструкция по сборке проекта
