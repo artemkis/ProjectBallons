@@ -6,7 +6,7 @@
 
 1. Cклонируйте репозиторий 
 
-```git clone https://github.com/artemkis/ProjectBallons.git```
+   ```git clone https://github.com/artemkis/ProjectBallons.git```
 
 2. Установите все npm пакеты
 
