@@ -1,5 +1,5 @@
 # ProjectBallons
-Проект при помощи gulp собран в папку docs. Чтобы посмотреть готовый проект, перейдите по [ссылке](https://artemkis.github.io/ProjectBallons/)
+Проект построен на float, используется своя собственная сетка. Готовый сайт при помощи gulp собран в папку docs. Чтобы посмотреть его, перейдите по [ссылке](https://artemkis.github.io/ProjectBallons/)
 
 ![Logotype](./docs/img/header-background.jpg)
 ## Инструкция по сборке проекта
