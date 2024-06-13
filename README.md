@@ -1,5 +1,6 @@
 # ProjectBallons
 Проект при помощи gulp собран в папку docs. Чтобы посмотреть готовый проект перейдите по [ссылке](https://artemkis.github.io/ProjectBallons/)
+<br/>
 ![Logotype](./docs/img/header-background.jpg)
 ## Инструкция по сборке проекта
 
