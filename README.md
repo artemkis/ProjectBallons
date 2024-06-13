@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/Oxygen)
 
-![Logotype](./docs/wall.jpg)
+![Logotype](./docs/img/header-background.jpg)
 
 <!--Установка-->
 ## Установка (Linux)
