@@ -39,11 +39,6 @@ gulp.task('html', function () {
         .pipe(gulp.dest("docs/"));
 });
 
-gulp.task('scripts', function () {
-    return gulp.src("src/js/**/*.js")
-        .pipe(gulp.dest("docs/js"));
-});
-
 gulp.task('icons', function () {
     return gulp.src("src/icons/**/*")
         .pipe(gulp.dest("docs/icons"));
