@@ -1,5 +1,5 @@
 # ProjectBallons
-В Проекте используется своя собственная сетка, построенная  на css технологии float. Готовый сайт при помощи gulp собран в папку docs. Для его просмотра, перейдите по [ссылке](https://artemkis.github.io/ProjectBallons/)
+В проекте используется своя собственная сетка, построенная  на css свойстве float. Готовый сайт при помощи gulp собран в папку docs. Для его просмотра, перейдите по [ссылке](https://artemkis.github.io/ProjectBallons/)
 
 ![Logotype](./docs/img/header-background.jpg)
 ## Инструкция по сборке проекта
